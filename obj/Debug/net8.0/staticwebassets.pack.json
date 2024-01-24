@@ -1,0 +1,637 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OnlineCommercialAutomation.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlineCommercialAutomation.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\1.png",
+      "PackagePath": "staticwebassets\\css\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\AdminLTE\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\css\\AdminLTE\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\AdminLTE\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\AdminLTE\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\nav.css",
+      "PackagePath": "staticwebassets\\css\\nav.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\thumber\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\thumber\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\thumber\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\css\\thumber\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\thumber\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\css\\fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\thumber\\css\\fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\thumber\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\css\\jquery.scrollbar.css",
+      "PackagePath": "staticwebassets\\css\\thumber\\css\\jquery.scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\thumber\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\css\\mediaelementplayer.css",
+      "PackagePath": "staticwebassets\\css\\thumber\\css\\mediaelementplayer.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\thumber\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\thumber\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\thumber\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\css\\swiper.min.css",
+      "PackagePath": "staticwebassets\\css\\thumber\\css\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\flaticon\\font\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\flaticon\\font\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\flaticon\\font\\_flaticon.css",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\flaticon\\font\\_flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\css\\thumber\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\js\\aos.js",
+      "PackagePath": "staticwebassets\\css\\thumber\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\css\\thumber\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\css\\thumber\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\css\\thumber\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\css\\thumber\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\css\\thumber\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\css\\thumber\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\css\\thumber\\js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\css\\thumber\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\js\\jquery.scrollbar.js",
+      "PackagePath": "staticwebassets\\css\\thumber\\js\\jquery.scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\css\\thumber\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\js\\main.js",
+      "PackagePath": "staticwebassets\\css\\thumber\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\js\\mediaelement-and-player.min.js",
+      "PackagePath": "staticwebassets\\css\\thumber\\js\\mediaelement-and-player.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\css\\thumber\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\css\\thumber\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\css\\thumber\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\js\\swiper.min.js",
+      "PackagePath": "staticwebassets\\css\\thumber\\js\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\css\\thumber\\js\\typed.js",
+      "PackagePath": "staticwebassets\\css\\thumber\\js\\typed.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\Product\\Citrus.jpg",
+      "PackagePath": "staticwebassets\\img\\Product\\Citrus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\Product\\Dolce.jpg",
+      "PackagePath": "staticwebassets\\img\\Product\\Dolce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\Product\\Givenchy.jpg",
+      "PackagePath": "staticwebassets\\img\\Product\\Givenchy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\Product\\L'HommeIdeal.jpg",
+      "PackagePath": "staticwebassets\\img\\Product\\L'HommeIdeal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\Product\\RealBeauty.jpg",
+      "PackagePath": "staticwebassets\\img\\Product\\RealBeauty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\Product\\Roci.jpg",
+      "PackagePath": "staticwebassets\\img\\Product\\Roci.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\Product\\Rosehip.jpg",
+      "PackagePath": "staticwebassets\\img\\Product\\Rosehip.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\Product\\ToiToi.jpg",
+      "PackagePath": "staticwebassets\\img\\Product\\ToiToi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\Product\\windrush.jpg",
+      "PackagePath": "staticwebassets\\img\\Product\\windrush.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\default.jpg",
+      "PackagePath": "staticwebassets\\img\\default.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\images\\img_1.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\images\\img_10.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\img_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\images\\img_2.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\images\\img_3.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\images\\img_4.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\images\\img_5.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\img_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\images\\img_6.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\img_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\images\\img_7.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\img_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\images\\img_8.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\img_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\images\\img_9.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\img_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\person_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\person_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\person_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\person_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\img\\images\\person_5.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\person_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\js\\AdminLTE\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\js\\AdminLTE\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\js\\AdminLTE\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\AdminLTE\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\js\\AdminLTE\\demo.js",
+      "PackagePath": "staticwebassets\\js\\AdminLTE\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\js\\AdminLTE\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\AdminLTE\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\js\\Chart1.js",
+      "PackagePath": "staticwebassets\\js\\Chart1.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\js\\easyResponsiveTabs.js",
+      "PackagePath": "staticwebassets\\js\\easyResponsiveTabs.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\taski\\OneDrive\\Belgeler\\ASP.NET-CORE\\OnlineCommercialAutomation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineCommercialAutomation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OnlineCommercialAutomation.props",
+      "PackagePath": "build\\OnlineCommercialAutomation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineCommercialAutomation.props",
+      "PackagePath": "buildMultiTargeting\\OnlineCommercialAutomation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OnlineCommercialAutomation.props",
+      "PackagePath": "buildTransitive\\OnlineCommercialAutomation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,30 @@
+@using OnlineCommercialAutomation.Models;
+@model Customer
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br>
+<h2>Müşteri Bilgileri Güncelleme</h2>
+@using (Html.BeginForm("EditCustomer", "Customer", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.HiddenFor(x => x.CustomerId)
+        @Html.LabelFor(x => x.CustomerName)
+        @Html.TextBoxFor(x => x.CustomerName, new{@class = "form-control"})
+        @Html.ValidationMessageFor(x => x.CustomerName,"",new{@style = "color : red"})
+        <br>
+        @Html.LabelFor(x => x.CustomerLastName)
+        @Html.TextBoxFor(x => x.CustomerLastName, new{@class = "form-control"})
+        @Html.ValidationMessageFor(x => x.CustomerLastName,"",new{@style = "color : red"})
+        <br>
+        @Html.LabelFor(x => x.CustomerCity)
+        @Html.TextBoxFor(x => x.CustomerCity, new{@class = "form-control"})
+        <br>
+        @Html.LabelFor(x => x.CustomerEmail)
+        @Html.TextBoxFor(x => x.CustomerEmail, new{@class = "form-control"})
+        <br>
+        <button class="btn btn-info">Güncelle</button>
+    </div>
+}

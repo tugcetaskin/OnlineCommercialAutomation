@@ -1,0 +1,48 @@
+@using OnlineCommercialAutomation.Models;
+@model List<Product>
+
+@{
+    ViewBag.Title = "Product";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br>
+<h2>Ürünler</h2>
+<br>
+
+<table class="table table-border">
+    <tr>
+        <th>ID</th>
+        <th>ÜRÜN</th>
+        <th>MARKA</th>
+        <th>STOK</th>
+        <th>ALIŞ FİYAT</th>
+        <th>SATIŞ FİYAT</th>
+        <th>KATEGORİ</th>
+        <th>GÖRSEL</th>
+        <th>SİL</th>
+        <th>GÜNCELLE</th>
+    </tr>
+
+    @foreach(var p in Model)
+    {
+        <tr>
+            <td>@p.ProductId</td>
+            <td>@p.ProductName</td>
+            <td>@p.Brand</td>
+            <td>@p.Stock</td>
+            <td>@p.PurchasePrice</td>
+            <td>@p.SalePrice</td>
+            <td>@p.Category.CategoryName</td>
+            <td>@p.ProductImage</td>
+            <td>
+                <a href="/Product/RemoveProduct/@p.ProductId" class="btn btn-danger">Sil</a>
+            </td>
+            <td>
+                <a href="/Product/GetProduct/@p.ProductId" class="btn btn-success">Güncelle</a>
+            </td>
+        </tr>
+    }
+</table>
+<br>
+<a href="/Product/AddProduct" class="btn btn-info">Ürün Ekle</a>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OnlineCommercialAutomation.props" />
+</Project>

@@ -1,0 +1,27 @@
+@using OnlineCommercialAutomation.Models;
+@model Employee
+
+@{
+    Layout = Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br>
+<h2>Personel Güncelleme</h2>
+<br>
+@using(Html.BeginForm("EditEmployee", "Employee", FormMethod.Post))
+{
+    @Html.HiddenFor(x => x.EmployeeId)
+    @Html.LabelFor(x => x.EmployeeImage)
+    @Html.TextBoxFor(x => x.EmployeeImage, new{@class = "form-control"})
+    <br>
+    @Html.LabelFor(x => x.EmployeeName)
+    @Html.TextBoxFor(x => x.EmployeeName, new{@class = "form-control"})
+    <br>
+    @Html.LabelFor(x => x.EmployeeLastName)
+    @Html.TextBoxFor(x => x.EmployeeLastName, new{@class = "form-control"})
+    <br>
+    @Html.LabelFor(x => x.DepartmentId)
+    @Html.DropDownListFor(x => x.DepartmentId, (List<SelectListItem>)ViewBag.value, new{@class = "form-control"})
+    <br>
+    <button class="btn btn-info">Güncelle</button>
+}

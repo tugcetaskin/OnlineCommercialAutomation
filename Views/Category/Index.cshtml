@@ -1,0 +1,30 @@
+@using OnlineCommercialAutomation.Models;
+@model List<Category>
+
+@{
+    ViewData["Title"] = "Category Page";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<table class="table table-border" style="margin-top: 20px;">
+    <tr>
+        <th>ID</th>
+        <th>Kategori Adı</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+    </tr>
+    @foreach(var c in Model)
+    {
+        <tr>
+            <td>@c.CategoryId</td>
+            <td>@c.CategoryName</td>
+            <td>
+                <a href="/Category/RemoveCategory/@c.CategoryId" class="btn btn-danger">Sil</a>
+            </td>
+            <td>
+                <a href="/Category/GetCategory/@c.CategoryId" class="btn btn-success">Güncelle</a>
+            </td>
+        </tr>  
+    }
+</table>
+<a href="/Category/AddCategory" class="btn btn-primary">Kategori Ekle</a>

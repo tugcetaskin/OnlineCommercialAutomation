@@ -1,0 +1,26 @@
+@using OnlineCommercialAutomation.Models;
+@model Customer
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br>
+<h2>Müşteri Ekle</h2>
+<br>
+<form class="form-group" method="post">
+    @Html.HiddenFor(x => x.CustomerId)
+    @Html.LabelFor(x => x.CustomerName)
+    @Html.TextBoxFor(x => x.CustomerName, new{@class = "form-control"})
+    <br>
+    @Html.LabelFor(x => x.CustomerLastName)
+    @Html.TextBoxFor(x => x.CustomerLastName, new{@class = "form-control"})
+    <br>
+    @Html.LabelFor(x => x.CustomerCity)
+    @Html.TextBoxFor(x => x.CustomerCity, new{@class = "form-control"})
+    <br>
+    @Html.LabelFor(x => x.CustomerEmail)
+    @Html.TextBoxFor(x => x.CustomerEmail, new{@class = "form-control"})
+    <br>
+    <button class="btn btn-info">Kaydet</button>
+</form>

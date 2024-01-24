@@ -1,0 +1,50 @@
+@using OnlineCommercialAutomation.Models;
+@model List<Invoice>
+
+@{
+    ViewBag.Title = "Invoice";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br>
+<h2>Faturalar</h2>
+<br>
+
+<table class="table table-border">
+    <tr>
+        <th>Id</th>
+        <th>Seri No</th>
+        <th>Sıra No</th>
+        <th>Vergi Dairesi</th>
+        <th>Tarih</th>
+        <th>Saat</th>
+        <th>Teslim Eden</th>
+        <th>Teslim Alan</th>
+        <th>Toplam</th>
+        <th>Güncelle</th>
+        <th>Detaylar</th>
+    </tr>
+
+    @foreach(var invoice in Model)
+    {
+        <tr>
+            <td>@invoice.InvoiceId</td>
+            <td>@invoice.InvoiceSerialNumber</td>
+            <td>@invoice.InvoiceSequenceNumber</td>
+            <td>@invoice.TaxAdministration</td>
+            <td>@invoice.InvoiceDate</td>
+            <td>@invoice.Time</td>
+            <td>@invoice.Deliverer</td>
+            <td>@invoice.Receiver</td>
+            <td>@invoice.Total</td>
+            <td>
+                <a href="/Invoice/GetInvoice/@invoice.InvoiceId" class="btn btn-info">Güncelle</a>
+            </td>
+            <td>
+                <a href="/Invoice/InvoiceDetail/@invoice.InvoiceId" class="btn btn-info">Detay</a>
+            </td>
+        </tr>
+    }
+</table>
+<br>
+<a href="/Invoice/AddInvoice" class="btn btn-info">Yeni Fatura Ekle</a>

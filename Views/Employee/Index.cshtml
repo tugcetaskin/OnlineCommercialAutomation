@@ -1,0 +1,40 @@
+@using OnlineCommercialAutomation.Models;
+@model List<Employee>
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<br>
+<h2>Personel</h2>
+<br>
+<table class="table table-striped">
+    <tr>
+        <th>Personel ID</th>
+        <th>Görsel</th>
+        <th>Ad</th>
+        <th>Soyad</th>
+        <th>Departman</th>
+        <th>Güncelle</th>
+        <th>Satışlar</th>
+    </tr>
+    @foreach(var emp in Model)
+    {
+        <tr>
+            <td>@emp.EmployeeId</td>
+            <td>
+                <img src="~/img/@emp.EmployeeImage" height="70px">
+            </td>
+            <td>@emp.EmployeeName</td>
+            <td>@emp.EmployeeLastName</td>
+            <td>@emp.Department.DepartmentName</td>
+            <td>
+                <a href="/Employee/GetEmployee/@emp.EmployeeId" class="btn btn-success">Güncelle</a>
+            </td>
+            <td>
+                <a href="/Department/DepEmpSales/@emp.EmployeeId" class="btn btn-info">Satışlar</a>
+            </td>
+        </tr>
+    }
+</table>
+<br>
+<a href="/Employee/AddEmployee" class="btn btn-info">Personel Ekle</a>

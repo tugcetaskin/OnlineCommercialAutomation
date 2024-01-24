@@ -1,0 +1,43 @@
+@using OnlineCommercialAutomation.Models;
+@model List<Customer>
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br>
+<h2>Müşteriler</h2>
+<br>
+<table class="table table-striped">
+    <tr>
+        <th>Müşreti ID</th>
+        <th>Ad</th>
+        <th>Soyad</th>
+        <th>Şehir</th>
+        <th>Mail</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+        <th>Detaylar</th>
+    </tr>
+    @foreach(var cus in Model)
+    {
+        <tr>
+            <td>@cus.CustomerId</td>
+            <td>@cus.CustomerName</td>
+            <td>@cus.CustomerLastName</td>
+            <td>@cus.CustomerCity</td>
+            <td>@cus.CustomerEmail</td>
+            <td>
+                <a href="/Customer/RemoveCustomer/@cus.CustomerId" class="btn btn-danger">Sil</a>
+            </td>
+            <td>
+                <a href="/Customer/GetCustomer/@cus.CustomerId" class="btn btn-success">Güncelle</a>
+            </td>
+            <td>
+                <a href="/Customer/CustSaleMoves/@cus.CustomerId" class="btn btn-info">Detay</a>
+            </td>
+        </tr>
+    }
+</table>
+<br>
+<a href="/Customer/AddCustomer" class="btn btn-info">Müşteri Ekle</a>

@@ -1,0 +1,36 @@
+@using OnlineCommercialAutomation.Models;
+@model List<Employee>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br>
+<h2>Departman Detayları</h2>
+<br>
+<ol class="breadcrumb mb-4">
+    <li class="breadcrumb-item active">@ViewBag.d Departmanı</li>
+</ol>
+<table class="table table-hover">
+    <tr>
+        <th>Personel ID</th>
+        <th>Ad</th>
+        <th>Soyad</th>
+        <th>Görsel</th>
+        <th>Satışlar</th>
+    </tr>
+    @foreach(var per in Model)
+    {
+        <tr>
+            <td>@per.EmployeeId</td>
+            <td>@per.EmployeeName</td>
+            <td>@per.EmployeeLastName</td>
+            <td>@per.EmployeeImage</td>
+            <td>
+                <a href="/Department/DepEmpSales/@per.EmployeeId" class="btn btn-info">Satışlar</a>
+            </td>
+        </tr>
+    }
+</table>
+

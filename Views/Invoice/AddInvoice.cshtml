@@ -1,0 +1,30 @@
+@using OnlineCommercialAutomation.Models;
+@model Invoice
+
+@{
+    ViewBag.Title = "AddInvoice";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<br>
+<h2>Fatura Ekle</h2>
+<br>
+
+<form class="form-group" method="post">
+    <br>
+    @Html.LabelFor(x => x.InvoiceSerialNumber)
+    @Html.TextBoxFor(x => x.InvoiceSerialNumber, new{@class = "form-control"})
+    <br>
+    @Html.LabelFor(x => x.InvoiceSequenceNumber)
+    @Html.TextBoxFor(x => x.InvoiceSequenceNumber, new{@class = "form-control"})
+    <br>
+    @Html.LabelFor(x => x.TaxAdministration)
+    @Html.TextBoxFor(x => x.TaxAdministration, new{@class = "form-control"})
+    <br>
+    @Html.LabelFor(x => x.Deliverer)
+    @Html.TextBoxFor(x => x.Deliverer, new{@class = "form-control"})
+    <br>
+    @Html.LabelFor(x => x.Receiver)
+    @Html.TextBoxFor(x => x.Receiver, new{@class = "form-control"})
+    <br>
+    <button class="btn btn-info">Kaydet</button>
+</form>

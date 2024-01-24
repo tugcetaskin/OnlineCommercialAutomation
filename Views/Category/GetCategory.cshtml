@@ -1,0 +1,22 @@
+@using OnlineCommercialAutomation.Models;
+@model Category
+
+@{
+    ViewBag.Title = "AddCategory";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br>
+<h2>Kategori Güncelleme</h2>
+<br>
+
+@using(Html.BeginForm("EditCategory", "Category", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(x => x.CategoryName)
+        @Html.TextBoxFor(x => x.CategoryName, new {@class="form-control"})
+        @Html.HiddenFor(x => x.CategoryId)
+    </div>
+    <br>
+    <button class="btn btn-warning">Güncelle</button>
+}

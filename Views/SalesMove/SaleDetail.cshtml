@@ -1,0 +1,36 @@
+@using OnlineCommercialAutomation.Models;
+@model List<SalesMove>
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br>
+<h2>Satış Detayı</h2>
+<br>
+<table class="table table-hover">
+    <tr>
+        <th>Satış Id</th>
+        <th>Ürün Adı</th>
+        <th>Müşteri Adı</th>
+        <th>Personel Adı</th>
+        <th>Adet</th>
+        <th>Birim Fiyat</th>
+        <th>Toplam Fiyat</th>
+        <th>Tarih</th>
+    </tr>
+    @foreach(var sales in Model)
+    {
+        <tr>
+            <th>@sales.SalesId</th>
+            <th>@sales.Product.ProductName</th>
+            <th>@sales.Customer.CustomerName @sales.Customer.CustomerLastName</th>
+            <th>@sales.Employee.EmployeeName @sales.Employee.EmployeeLastName</th>
+            <th>@sales.Quantity</th>
+            <th>@sales.UnitPrice</th>
+            <th>@sales.TotalAmount</th>
+            <th>@sales.Date</th>
+        </tr>
+    }
+</table>
+<button class="btn btn-info">Yazdır</button>

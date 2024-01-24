@@ -1,0 +1,183 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OnlineCommercialAutomation
+build_property.RootNamespace = OnlineCommercialAutomation
+build_property.ProjectDir = C:\Users\taski\OneDrive\Belgeler\ASP.NET-CORE\OnlineCommercialAutomation\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\taski\OneDrive\Belgeler\ASP.NET-CORE\OnlineCommercialAutomation
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Category/AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Category/GetCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcR2V0Q2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Customer/AddCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQWRkQ3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Customer/CustSaleMoves.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3VzdFNhbGVNb3Zlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Customer/GetCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcR2V0Q3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Department/AddDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxBZGREZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Department/DepartmentDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXBhcnRtZW50RGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Department/DepEmpSales.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXBFbXBTYWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Department/GetDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxHZXREZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Employee/AddEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQWRkRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Employee/GetEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcR2V0RW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Gallery/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsbGVyeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Invoice/AddInvoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZVxBZGRJbnZvaWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Invoice/AddInvoiceItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZVxBZGRJbnZvaWNlSXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Invoice/GetInvoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZVxHZXRJbnZvaWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Invoice/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Invoice/InvoiceDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZVxJbnZvaWNlRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/ProductDetail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdERldGFpbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Product/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Product/GetProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Product/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/SalesMove/AddSale.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNNb3ZlXEFkZFNhbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/SalesMove/GetSales.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNNb3ZlXEdldFNhbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/SalesMove/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNNb3ZlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/SalesMove/SaleDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNNb3ZlXFNhbGVEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Statistic/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Statistic/Partial1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljXFBhcnRpYWwxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Statistic/SimpleTables.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljXFNpbXBsZVRhYmxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taski/OneDrive/Belgeler/ASP.NET-CORE/OnlineCommercialAutomation/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tatfi2zjba
