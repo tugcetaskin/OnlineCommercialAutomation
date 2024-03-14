@@ -1,3 +1,3 @@
 # OnlineCommercialAutomation
 Murat Yücedağ Udemy Course
-![Uploading image.png…]()
+(https://github.com/tugcetaskin/OnlineCommercialAutomation/wwwroot/ReadMeImage/1.png)
